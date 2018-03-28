@@ -1,0 +1,77 @@
+Xft.autohint: 0
+Xft.lcdfilter: lcddefault
+Xft.hintstyle: hintslight
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+Xft.dpi: 96
+
+! Rofi configuration
+rofi.modi: run
+rofi.color-enabled: true
+
+!                  Background   Foreground  Background Alternate    Highlight Background    Highlight Foreground
+rofi.color-window: #0B0E1C,     #F17468,    #0B0E1C     
+rofi.color-normal: #0B0E1C,     #ffe7cb,    #0B0E1C,                #F17468,                #0B0E1C
+rofi.color-active: #0B0E1C,     #ffe7cb,    #0B0E1C,                #F17468,                #0B0E1C
+rofi.color-urgent: #0B0E1C,     #ffee95,    #0B0E1C,                #ffee95,                #0B0E1C
+
+rofi.columns: 1
+rofi.fake-transparency: true
+rofi.hide-scrollbar: true
+rofi.disable-history: true
+rofi.bw: 0
+rofi.fullscreen: false
+rofi.lines: 5
+rofi.padding: 5
+rofi.separator-style: none
+
+urxvt*foreground: #f2f2f2
+urxvt*background: #101010
+urxvt*font: xft:DejaVu Sans Mono-14
+!urxvt*font: xft:Monaco 13
+
+! Normal
+! color0    black
+! color1    red
+! color2    green
+! color3    yellow
+! color4    blue
+! color5    purple
+! color6    cyan
+! color7    white
+
+!urxvt*color0:    #6c6c6c
+!urxvt*color1:    #e9897c
+!urxvt*color2:    #b6e77d
+!urxvt*color3:    #ecebbe
+!urxvt*color4:    #a9cdeb
+!urxvt*color5:    #ea96eb
+!urxvt*color6:    #c9caec
+!urxvt*color7:    #f2f2f2
+
+! Light
+! color8    black
+! color9    red
+! color10    green
+! color11    yellow
+! color12    blue
+! color13    purple
+! color14    cyan
+! color15    white
+
+!urxvt*color8:    #747474
+!urxvt*color9:    #f99286
+!urxvt*color10:    #c3f786
+!urxvt*color11:    #fcfbcc
+!urxvt*color12:    #b6defb
+!urxvt*color13:    #fba1fb
+!urxvt*color14:    #d7d9fc
+!urxvt*color15:    #e2e2e2
+
+urxvt*scrollBar: false
+URxvt.scrollBar_right: false
+URxvt.scrollBar_floating: false
+URxvt.scrollstyle: rxvt
+
+urxvt*internalborder: 1
