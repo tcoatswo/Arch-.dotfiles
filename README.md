@@ -1,2 +1,10 @@
 # Arch-.dotfiles
- Customized Arch Linux configuration files; pimp your ride. 
+
+Personal Arch Linux configuration files.
+
+## Notes
+- Public for transparency and reproducibility
+- Expect opinionated defaults
+
+## License
+MIT
